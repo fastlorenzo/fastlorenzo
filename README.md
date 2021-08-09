@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=fastlorenzo&show_icons=true&theme=gotham)
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=fastlorenzo&show_icons=true&theme=gotham)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=fastlorenzo&show_icons=true&theme=gotham&layout=compact&langs_count=10)
